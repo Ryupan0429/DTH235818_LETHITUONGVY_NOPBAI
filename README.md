@@ -6,7 +6,7 @@
 - **MSSV:** DTH235818  
 - **Khóa:** 24  
 - **Trường:** Đại học An Giang  
-- **Liên hệ:** vy_dth235818@gmail.com
+- **Liên hệ:** vy_dth235818@student.agu.edu.vn
 ---
 
 ## Giới thiệu
