@@ -1,0 +1,5 @@
+sv1;Cocacolala;15.5 
+sp2;Bưởi 5 Roi;18.0 
+sp3;Bia 333;14.5 
+M1;Nn;2000.0
+M22;Chuối;333.0
